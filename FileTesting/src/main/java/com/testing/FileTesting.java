@@ -97,6 +97,12 @@ public class FileTesting {
             System.out.println(" masuk null");
         }
         
+        boolean tr= true;
+        
+        while(tr){
+            System.out.println("teeeeees");
+        }
+        
     }
 
     public static Map<String, String> doubleEncrypt(String message, String absolutePath) {
